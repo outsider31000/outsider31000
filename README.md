@@ -1,3 +1,5 @@
+ <div align="left"><img src="https://komarev.com/ghpvc/?username=outsider31000&label=Profile%20views&color=blue&style=plastic" alt="outsider31000" /></div>
+        
 <div align="center">
         <img width="45%" src="https://github-readme-stats.vercel.app/api?username=outsider31000&layout=compact&theme=react&hide_border=true"/>
 
